@@ -9,7 +9,7 @@
   <div>
     <img align="center" alt="GuiHTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="GuiCSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img aling="center" alt="GuiJS" height="30" width="40" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AJavascript-shield.svg&psig=AOvVaw0J9vh7j2XSGCcua-Qx9S7C&ust=1647720454627000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCKCuyJW70PYCFQAAAAAdAAAAABAP">
+    <img aling="center" alt="GuiJS" height="30" width="40" src="https://iconscout.com/icon/javascript-2038874">
   </div>
 
   ##
