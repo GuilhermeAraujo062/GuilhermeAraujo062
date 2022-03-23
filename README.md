@@ -1,4 +1,4 @@
-## Olá, Eu sou o GuilhermeAraujo062
+## Olá, Eu sou o GuilhermeAraujo
 
 <div align="center">
   <a href="https://github.com/GuilhermeAraujo062">
