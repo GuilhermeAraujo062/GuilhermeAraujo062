@@ -10,6 +10,7 @@
     <img align="center" alt="GuiHTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="GuiCSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="GuiJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/javascript/javascript-original.svg">
+    <img align="center" alt="GuiReact" height="30" width="40" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ficonduck.com%2Ficons%2F14185%2Freact&psig=AOvVaw0qVl4flySFa1G_zT79e_Es&ust=1727351476311000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLCVtO2D3ogDFQAAAAAdAAAAABAI">
   </div>
 
   ##
