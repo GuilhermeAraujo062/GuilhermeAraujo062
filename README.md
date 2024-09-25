@@ -10,7 +10,7 @@
     <img align="center" alt="GuiHTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="GuiCSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="GuiJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/javascript/javascript-original.svg">
-    <img align="center" alt="GuiReact" height="30" width="40" src="[file:///C:/Users/Guilherme/Downloads/react-original-wordmark.svg](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)">
+    <img align="center" alt="GuiReact" height="30" width="40" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   </div>
 
   ##
